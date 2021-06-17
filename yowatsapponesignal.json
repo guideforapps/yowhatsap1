@@ -1,0 +1,42 @@
+{
+  "Json_Data": [
+    {
+
+
+      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
+
+
+      "Appodeal_id": "01234567890123457890145789",
+      "Unity_id": "3337513",
+      "Startapp_id": "206768024",
+
+
+      "Active_Ad_network": "admob appodeal startapp",
+
+
+      "Ad__1__Interstitial": "admob",
+      "Ad__2__Interstitial": "appodeal",
+      "Ad__3__Interstitial": "startapp",
+
+      "Ad__X__Banner": "admob",
+
+
+      "App_suspended": "no",
+      "NewApp_package": "com.facebook.lite",
+      "NewApp_title": "App update!",
+      "NewApp_message": "please update to new version!",
+	  
+	  
+       "Custom_Enable_Popup": "yes",
+       "Custom_Cpa_title": "Lords Mobile: Kingdom Wars",
+       "Custom_CpaIcon": "https://play-lh.googleusercontent.com/F_n5VMgvBNjlsPW45xY4U_zURHsJlIENPk06UxXsK4AleWGHmXW0zIQ_FFuiJ-fNSA",
+       "Custom_CpaUrl": "https://www.youtube.com/",
+
+
+
+
+      "Json_Checker": "dont_change_this"
+    }
+  ]
+}
