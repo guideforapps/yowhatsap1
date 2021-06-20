@@ -12,12 +12,12 @@
       "Startapp_id": "205573102",
 
 
-      "Active_Ad_network": "admob Appodeal Unity",
+      "Active_Ad_network": "admob ",
 
 
       "Ad__1__Interstitial": "admob",
-      "Ad__2__Interstitial": "Appodeal",
-      "Ad__3__Interstitial": "Unity",
+      "Ad__2__Interstitial": "admob",
+      "Ad__3__Interstitial": "admob",
 
       "Ad__X__Banner": "admob",
 
