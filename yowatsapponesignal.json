@@ -12,14 +12,14 @@
       "Startapp_id": "205573102",
 
 
-      "Active_Ad_network": "Appodeal Startapp ",
+      "Active_Ad_network": "Appodeal Startapp admob",
 
 
       "Ad__1__Interstitial": "Appodeal",
       "Ad__2__Interstitial": "admob",
       "Ad__3__Interstitial": "Startapp",
 
-      "Ad__X__Banner": "Startapp",
+      "Ad__X__Banner": "admob",
 
 
       "App_suspended": "no",
