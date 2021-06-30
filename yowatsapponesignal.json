@@ -11,13 +11,13 @@
       "Unity_id": "4177487",
       "Startapp_id": "205573102",
 
+	    
+      "Active_Ad_network": "admob appodeal startapp",
 
-      "Active_Ad_network": "Appodeal Startapp admob",
 
-
-      "Ad__1__Interstitial": "Appodeal",
-      "Ad__2__Interstitial": "admob",
-      "Ad__3__Interstitial": "Startapp",
+      "Ad__1__Interstitial": "admob",
+      "Ad__2__Interstitial": "appodeal",
+      "Ad__3__Interstitial": "startapp",
 
       "Ad__X__Banner": "admob",
 
@@ -28,10 +28,10 @@
       "NewApp_message": "please update to new version!",
 	  
 	  
-       "Custom_Enable_Popup": "no",
-       "Custom_Cpa_title": "Coin Master - Android, US, CPE lvl 3, Content",
-       "Custom_CpaIcon": "https://media.go2speed.org/brand/files/ogmobi/30543/thumbnails_100/Coin.Master.png",
-       "Custom_CpaUrl": "jump.ogtrk.net/aff_c?offer_id=30543&aff_id=163384",
+       "Custom_Enable_Popup": "yes",
+       "Custom_Cpa_title": "Lords Mobile: Kingdom Wars",
+       "Custom_CpaIcon": "https://play-lh.googleusercontent.com/F_n5VMgvBNjlsPW45xY4U_zURHsJlIENPk06UxXsK4AleWGHmXW0zIQ_FFuiJ-fNSA",
+       "Custom_CpaUrl": "https://www.youtube.com/",
 
 
 
