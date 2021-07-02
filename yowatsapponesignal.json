@@ -16,7 +16,7 @@
 
 
       "Ad__1__Interstitial": "startapp",
-      "Ad__2__Interstitial": "startapp",
+      "Ad__2__Interstitial": "admob",
       "Ad__3__Interstitial": "startapp",
 
       "Ad__X__Banner": "admob",
