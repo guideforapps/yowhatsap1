@@ -15,8 +15,8 @@
       "Active_Ad_network": "admob  startapp",
 
 
-      "Ad__1__Interstitial": "startapp",
-      "Ad__2__Interstitial": "startapp",
+      "Ad__1__Interstitial": "admob",
+      "Ad__2__Interstitial": "admob",
       "Ad__3__Interstitial": "admob",
       "Ad__3__Interstitial": "startapp",
       "Ad__X__Banner": "admob",
